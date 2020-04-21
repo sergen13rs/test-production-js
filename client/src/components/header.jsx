@@ -28,7 +28,7 @@ export default () => {
       }}
     >
       <StyledNavigationList $align={ALIGN.left}>
-        <StyledNavigationItem>Uber</StyledNavigationItem>
+        <StyledNavigationItem>Project</StyledNavigationItem>
       </StyledNavigationList>
       <StyledNavigationList $align={ALIGN.center} />
       <StyledNavigationList $align={ALIGN.right}>
